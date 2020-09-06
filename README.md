@@ -1,6 +1,6 @@
 
 ## Requirements
- - Go 1.13
+ - Go 1.14
 
 
 
