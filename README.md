@@ -52,6 +52,9 @@ fbd gentx --name validator --amount 1000000fbx
 fbd collect-gentxs
 
 
+
+
+
 # STEP-2
 
 ```
